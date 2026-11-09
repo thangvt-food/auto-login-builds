@@ -1,0 +1,19 @@
+slug: auto-login-builds
+name: AWING Builds
+tagline: Repo chứa bản build của AWING Auto Login
+url: https://github.com/thangvt-food/auto-login-builds
+status: idea
+visibility: private
+description: Repo public dùng để chứa file build của auto-login-awifi; hiện chưa có nội dung.
+tags:
+  - build
+  - wifi
+category: dev
+tech: []
+hosting: unknown
+updated: '2026-06-04'
+icon: 📦
+auth: none
+links:
+  repo: https://github.com/thangvt-food/auto-login-builds
+notes: Repo public nhưng trống, chỉ dùng làm nơi phát hành build.
